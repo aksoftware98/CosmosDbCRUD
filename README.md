@@ -7,7 +7,7 @@ It's a console .NET Core application with the .NET SDK of the Azure Cosmos Db to
 
 ## Install and Run the demo 
 
- - Make sure you have the Azure Cosmos Db Emulator installed and running on your machine, if you don't have it already you can get it from here [enter link description here](https://aka.ms/cosmosdb-emulator).
+ - Make sure you have the Azure Cosmos Db Emulator installed and running on your machine, if you don't have it already you can get it from here [Azure Cosmos Db Emulator](https://aka.ms/cosmosdb-emulator).
  - Create a database call it AppStore
  - Create a container call it Apps
  - Clone the repository and run the application by calling the following commands in the 
